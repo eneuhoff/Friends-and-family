@@ -1,0 +1,418 @@
+first_name,last_name,email,phone,address_1,address_2,city,state,zip,personal_email
+Ryan,Baer,ryan.a.baer@nielsen.com,4435614976,506 Brentwood Ave,,Severna Park,MD,21146,1
+Maria,Carfora,maria.carfora@nielsen.com,2033145704,77 Rentell Rd,,Hamden,CT,6514,1
+Ross,DeMike,rossjdm@gmail.com,9414165893,5831 Meadows Dr APT E,,Fort Wayne,IN,46804-7651,0
+Karen,Gavigan,karen.gavigan@nielsen.com,4439627670,7892 Poplar Grove Rd,,Severn,Maryland,21144-2023,1
+Kimberly,Hawkins,kimberly.hawkins@nielsen.com,7277988625,18005 US 301,,Dade City,FL,33523,1
+Albert,Hepting,al.hepting@nielsen.com,4439041055,1000-3B Spring Gate Rd,,Catonsville,MD,21228,1
+Laura,Jacoby,laura.jacoby@nielsen.com,8185213524,119 26th Ave,,Seattle,WA,98122,1
+Ally,Kochenour,allysha.kochenour@nielsen.com,7179796036,10661 Gramercy Pl,Unit 202,Columbia,MD,21044,1
+Kevin,Labutta,kevin.labutta@nielsen.com,7173723440,83 Stirling St,,Longmeadow,MA,1106,1
+Patsy,Langford,patsy.langford@nielsen.com,8132302296,16307 Wild Mallard Dr.,,Odessa,FL,33556,1
+Stephanie,Melton,stephanie.melton@nielsen.com,7275808880,1779 Split Fork Dr,,Oldsmar,FL,34677,1
+Tyler,Miller,tylerymiller@gmail.com,9416815454,441 E. Seminole Dr.,,Venice,FL,34293,0
+Emily,Neuhoff,emily.neuhoff@nielsen.com,4406101751,7055 melting shadows lane,,Columbia,MD,21045,1
+Patricia,Nottingham,pat.nottingham82@gmail.com,941-429-9461,5420 Kenwood Drive,,North Port,FL,34287,0
+Diahanna,Post,diahanna.post@nielsen.com,415-260-7217,9466 Lazy Creek Dr.,,Windsor,CA,95492,1
+Liz,Pritchard,liz.pritchard@nielsen.com,7276375657,413 E 19th St,,Chester,PA,19013,1
+Cermet,Ream,cermet.ream@nielsen.com,231-821-3372,3637 Jackson St,,Denver,CO,80205,1
+Anna Marie,Recco,annamarie.recco@nielsen.com,516-375-1918,37 McKinley Ave,,Franklin Square,NY,11010,1
+Kay,Ricci,Kay.Ricci@nielsen.com,4234751098,1606 Williams Street Apt 300,,Chattanooga,TN,37408,1
+Patricia,Seeley,patricia.seeley@nielsen.com,941-875-0735,225 Miami Ave W.,7B,Venice,FL,34285,1
+Nila,Sheth,Nila.sheth@nielsen.com,301-741-5044,15303 Riding Path ct,,Laurel,MD,20707,1
+Sherry,Song,sherry.song@nielsen.com,9416003373,111 Aquila St. S,,Nokomis,FLORIDA,34275,1
+Natalie,Strauss,natalie.strauss@nielsen.com,2013901244,5 Bell Drive,,Westfield,New Jersey,7090,1
+Soraya,Tappan,tappancm@aol.com,9413568176,2532 Lockwood Meadows St.,,Sarasota,Fl,34234,0
+Ciara,Willett,ciara.willett@nielsen.com,2403817432,332 S Lang Ave,Apt 2,Pittsburgh,PA,15208,1
+Erin,Wittkowski,erinwitt@gmail.com,319-493-8046,7806 Thorndale Dr NE,,Cedar Rapids,IA,52402,0
+Ashley,Wright,ashley.hager@nielsen.com,941-961-3037,6083 Mayberry ave.,,North Port,FL,34287,1
+Hani,Zainulbhai,hanizain@gmail.com,2032461966,4005 Monterey Ave,,Edina,MN,55416,0
+Bill,Solano,williamvsolano@gmail.com,8476241878,1011 N Harvard Ave,,Arlington Heights,IL,60004,0
+Roseann,Delluomo,roseann.delluomo@nielsen.com,9176997430,158-37 88th Street,,Howard Beach,New York,11414,1
+Cortney,Kellogg,cokellogg@gmail.com,6366331246,"12905 National Dr, Apt A",Apt A,Tampa,FL,33617,0
+Jose,Manuel Diaz,josemdiazp@gmail.com,2102402003,18077 Frame Bnd,,Land O Lakes,FL,34638,0
+Lisa,Pharaoh,lisa.pharaoh@nielsen.com,3019227043,15900 Kruhm Road,,Burtonsville,MD,20866,1
+Ed,Pierce,ed.pierce@nielsen.com,410 271-8298,6166 Commadore Ct,,Columbia,MD,21045,1
+Christine,Pierce,Christine.pierce@nielsen.com,8472541651,306 Ridge Rd,,Palm Harbor,FL,34683,1
+Brian,Stauffer,Brian.stauffer@nielsen.com,4434211451,6110 Rainbow Dr,,Elkridge,MD,21075,1
+Lisa,Swan,Lisa.Swan@nielsen.com,410-869-6710,2007 Carmalt Lane,,The Villages,FL,32163,1
+Sue,Thomas,sue.thomas@nielsen.com,2403444402,802 Merridale Blvd,,Mount Airy,MD,21771,1
+Ashleigh,Wyble,ashleighwyble@gmail.com,443-871-2924,307 Fernwood Dr,,Severna Park,MD,21146,0
+Richard,Tunkel,richtunkel@gmail.com,9082294410,4 Kings Court,,Pennington,NJ,8534,0
+Michael,Weinisch,michael.weinisch@nielsen.com,5162336787,14 Knollwood Drive,,North Caldwell,NJ,7006,1
+Sara,Kilborn-Gagne,sara.kilborn-gagne@nielsen.com,763-360-6019,13070 Quail Creek Dr. NE,,Blaine,MN,55449,1
+Arlene,Gonzalez-Kelsch,arlene.gonzalezkelsch@nielsen.com,713-294-2212,306 McGowen St.,Apt. 3101,Houston,TX,77006,1
+MARTA,BARONE,marta.barone@nielsen.com,7025572895,3781 TRANQUIL CANYON CT,,LAS VEGAS,NV,89147,1
+DAVID,UNIVERSAL,DAVID.UNIVERSAL@NIELSEN.COM,7164449898,109 NEWCASTLE COURT,,AMHERST,NY,14221,0
+Joyce,Ejgird,joyce.ejgird@gmail.com,5037800927,3509 NE 8th Ave,,Portland,Oregon,97212,0
+Stephanie,Block,stephanie.block@nielsen.com,8478581474,7942 S XANTHIA CT,,CENTENNIAL,CO,80112,1
+Christina,Hurley,christina.hurley@nielsen.com,6784278136,104 Marais Ave,,Youngsville,LA,70592,1
+Sue,Tremblay,Susantremblay@yahoo.com,4019359413,31 Humboldt Ave,,Providence,Ri,2906,0
+Trish,Craig,Trish.Craig@nielsen.com,7708566369,3930 GRAYSTONE PRESERVE PL,,Cumming,GA,30040,1
+Paul,LeFort,paul.lefort@nielsen.com,3104189277,9838 Vicar St,,Los Angeles,CA,90034,1
+Kari,Armstrong,kariarmstrong1@gmail.com,8123098597,3940 Lantern Hill Drive,,Dacula,GA,30019,0
+Jennifer,Bratten,jennifer.bratten@nielsen.com,2146742411,14822 silver sands st,,houston,tx,77095,1
+Tyler,Sharrett,tyler.sharrett@icloud.com,832-334-7741,14803 bluffridge circle,,houston,tx,77095,0
+Laura,Kutscher Stoessel,laura.kutscher@nielsen.com,3015292983,13119 Bradley Farm Dr,,HERNDON,VA,20171,1
+Guy,Oekerman,guy.oekerman@nielsen.com,9713306138,102 Greenridge Court,,Lake Oswego,OR,97035,1
+Dawn,Leonetti,dawn.leonetti@nielsen.com,2173615974,1010 Fountain Park Dr,,Sherman,Il,62684,1
+Jacqueline,Stafford,jacquiestafford@gmail.com,727-599-1951,"500 Belcher Rd S, Apt 9",,Largo,FL,33771,0
+Melissa,Morganti,melissa.morganti@nielsen.com,2149016008,14014 Coquina bluffs,,San Antonio,Texas,78253,1
+Dylan,Corbett,dylan.corbett@nielsen.com,6124321714,6625 4th ave s,,richfield,mn,55423,1
+Kim,Dennis,kim.dennis@nielsen.com,2158731068,1118 Nanticoke St,,Baltimore,MD,21230,1
+Crystal,Gore-Fisher,crystal.gore-fisher@nielsen.com,4103009384,504 Dogwood Rd,,Linthicum Heights,MD,21090,1
+Erik,Lilly,erik.lilly@nielsen.com,5025239115,629 Garden Dr.,,Chillicothe,OH,45601,1
+Dany,Dean,dany.dean@nielsen.com,7274587849,5271 Kernwood Ct,,Palm Harbor,FL,34685,1
+Ronald,Ali,funkyroller@yahoo.com,301-379-6456,5701 33rd Ave,,Hyattsville,MD,20782,0
+Justin,Collake,justin.collake@nielsen.com,4232974014,730 Ridgefield Rd,,Elizabethton,TN,37643,1
+WHITNEY,WALKER,whitney.walker@nielsen.com,2144695994,1624 BELMONT ST,,MESQUITE,TX,75149,1
+Larry,Smith,laurence.smith@nielsen.com,3144978361,5051 Castle Douglas Dr.,,Saint Peters,MO,63304,1
+Alexander,Ortiz,Alexander.Ortiz@nielsen.com,7279465204,4714 N Habana Ave,Apt 1904,Tampa,FL,33614,1
+Alisha,Marsh,grandmasharkmarsh@gmail.com,4253816971,43576 W Mcclelland Ct,,Maricopa,AZ,85138,0
+Yei,Negron,ynegron15@gmail.com,8133458129,11376 Corinthian ST,,Spring Hill,FL,34609,0
+PAULO,GOMES,PAULO.GOMES@NIELSEN.COM,9734773261,125 Midway Rd,Apt 203,CRANSTON,RI,2920,0
+Lisa,Medgaus,lisa.medgaus@nielsen.com,3145025448,4931 Lindell Blvd,Apt 303,St Louis,MO,63108,1
+Marissa,Cozza,marissa.cozza@nielsen.com,6083468609,5821 Columbia Dr,,South Beloit,IL,61080,1
+Tim,Sandvig,timothy.sandvig@nielsen.com,6514430581,6567 Craig Ave,,Inver Grove Heights,MN,55076,1
+Darlene,Sivatko,darlene.sivatko@nielsen.com,443-315-9888,3465 E Ivory Road,,West Friendship,MD,21794,1
+Brendan,Park,brendan.park@nielsen.com,8135086856,1151 McLean St.,,Dunedin,FL,34698,1
+Michael,Savani,Michael.savani@nielsen.com,3014713265,1707 Derrs Sq E,,Frederick,MD,21701,1
+Gregory,Gniotczynski,gregory.gniotczynski@nielsen.com,4142556172,1418A E. Morgan Ave.,,MILWAUKEE,WI,53207,1
+marlene,harper,mharper@Nielsen.com,8134220926,501 Brooker Creek Blvd,,Oldsmar,FL,33624,0
+Mark,Greenleaf,mark.greenleaf@nielsen.com,4846459228,823 David Drive,,Feasterville Trevose,PA,19053-6168,1
+Diane,Reynolds,Diane.reynolds@nielsen.com,7274219874,1901 Oakdale ln n,,Clearwater,FL,33764,1
+Dave,Phillips,ohdave100@gmail.com,3305733340,20 Pontius St NW,,Uniontown,OH,44685,0
+Pavla,Dvorakova,pavla.dvorakova@nielsen.com,4083341411,1670 Souvenir Dr,,Clearwater,FLORIDA,33755-1640,1
+Patrick,Colpoys,pat.colpoys@nielsen.com,7272434505,637 Wyndham Way,,Pooler,GA,31322,1
+Odelia,Gonzales,ODELIA.GONZALES@NIELSEN.COM,2819006266,22427 BAUER CANYON DR,,HOCKLEY,TX,77447,0
+Joe,Alonzo,joe.alonzo@nielsen.com,8133658234,34244 Radley Way,,Wesley Chapel,FL,33545,1
+Benjamin,Levine,Benjamin.Levine@nielsen.com,4108164464,1317 greenbriar circle,,Pikesville,MD,21208,1
+Linda,Juers,linda.juers@nielsen.com,5188017023,2914 Olmos Creek Drive #7206,,San Antonio,TX,78230,1
+Dan,Rosenblum,dan.rosenblum@nielsen.com,3059060845,1057 NE 42nd Ave,,Homestead,FL,33033,1
+Cortney,Kellogg,cokellogg@gmail.com,6366331246,"12905 National Dr, Apt A",,Tampa,FL,33617,0
+Brett,Davison,brettsdavison@me.com,7274121000,2042 Sheffield Ct,,Oldsmar,FL,34677,0
+Courtney,Mooney,courtney.mooney@nielsen.com,443-415-1992,6339 Arbor Way,,Elkridge,MD,21075,1
+Danielle,King,danielle.king@nielsen.com,2028129698,11235 Snowflake Court,Unit A,Columbia,MD,21044,1
+Greg,Clements,Greg@clementsmedia.com,6147692895,721 Sheffield Drive,,Springfield,Ohio,45506,0
+Anthony,Childress,anthony.childress@nielsen.com,7025819934,5848 Clear Haven Ln,,North Las Vegas,NV,89081,1
+Jill,Roen,jillroen@comcast.net,612-308-0719,400 Leeward Trail,,Woodbury,MN,55129,0
+Jose,Torres,jose.f.torres@nielsen.com,6142023360,2824 Neverland Dr.,,New Smyrna Beach,Florida,32168,1
+Samantha,DiCiurcio,samanthamazzuca@gmail.com,2676703084,151 SE 3RD AVE APT 427,,DELRAY BEACH,FL,33483,0
+Aaron,Gaston,aaron.gaston@nielsen.com,314-443-0457,4915 Finkman St,,Saint Louis,MO,63109,1
+Reuben,Hood,Reuben.hood@nielsen.com,630-485-9255,6975 Center Ave,,Hanover Park,IL,60133,1
+Michael,Otterstrom,Michael.Otterstrom@nielsen.com,918-698-1048,317 keypoint Dr.,,Sand Springs,Ok,74063,1
+Lawnzetta,Yancey,zetta696@gmail.com,8157336993,26326 WHISPERING WOODS CIR,,PLAINFIELD,IL,60585,0
+Minerva,Negron,minerva.negron@nielsen.com,2014632302,9700 Old Gate Dr,,Matthews,NORTH CAROLINA,28105,1
+J Tracy,Booth,jtracy.booth@nielsen.com,(850) 597-4461,PO Box 783,134 Grand St,Schoharie,NY,12157,1
+Thomas,Welch,thomas.welch@nielsen.com,7272437998,16533 Ivy Lake Dr,,Odessa,FL,33556,1
+Maria,Fouts,maria.fouts@nielsen.com,443-896-4865,6210 Woodleigh Drive,,Columbia,Maryland,21044,1
+Mary,DeVore,mary.devore@nielsen.com,7277934835,2345 2nd ave north,,St. Petersburg,FL,33713,1
+Joseph,Zimmerman,joseph.zimmerman@nielsen.com,5614023650,PO Box 1280,,Boynton Beach,FL,33425,1
+Aaron,Butler,aburl757@gmail.com,9187292036,1123 S Wheeling AVE,,Tulsa,OK,74104,0
+Jonathan,Boykin,clemsonboykin@gmail.com,8645469355,18 Sunbeam Court,,St. Peters,MO,63376,0
+Dawn,Diaab-Elly,Dawn.Diaabelly@nielsen.com,3173661340,3155 E. Larned,,Detroit,Michigan,48207,1
+Milton,Perkins,milton.perkins@nielsen.com,5412448630,780 South Grice Loop,,Jefferson,OR,97352,1
+Doug,McGregor,Doug.mcgregor@nielsen.com,7123601773,4419 Grant St,,Sioux City,IA,51108,1
+Jonathan,Hunt,jonathan.hunt@nielsen.com,2395723148,601 terry ln,,North Aurora,IL,60542,1
+Christopher,Martin,chris.martin@nielsen.com,7276669955,1608 Sherwood St,,Clearwater,Florida,33755,1
+Gary,White,gary.white@nielsen.com,(619)598-8762,1227 Cabezas Cv,Unit 4,Chula Vista,Ca,91915,1
+Eugene,Tham,eugene.tham@nielsen.com,3039219940,2863 E 161st Pl,,Thornton,CO,80602,1
+CARRIE,TORRES,CARRIE.TORRES@NIELSEN.COM,8133944009,9125 SUFFIELD CT.,,TAMPA,FL,33615,0
+Dann,Johansson,Dannjohansson@yahoo.com,8134815034,11649 Fox Creek Dr,,Tampa,Fl,33635,0
+Tracy,Wilson,Tracy.wilson@nielsen.com,7045751221,17140 135th Ave NE,E411,Woodinville,Wa,98072,1
+Daleisha,Santiago,daleishasantiago@icloud.com,8637848676,210 fred conner st,,avon park,fl,33825,0
+Ronald,Ayala,ronald.ayala@nielsen.com,3103218268,44639 Kingtree Ave,,Lancaster,Ca,93534,1
+MARANDA,BOLDEN,RACHALBOLDEN2@GMAIL.COM,9038642140,9331 WESTRIDE BLVD,APT 3402,MCKINNEY,TX,75050,0
+Tiff,Easter,tiff.easter@nielsen.com,5022164350,3222 Allison Way,,Louisville,KY,40220,1
+Jack,Kelly,jack.kelly@nielsen.com,4197229319,58 S Bryan St.,,"Madison, WI, 53714",WI,53714,1
+Seth,Villafan Hernandez,seth.villafanhernandez@nielsen.com,509-607-4495,502 North 11th Street,,Selah,WA,98942,1
+Sean,McElligott,sean.mcelligott@nielsen.com,9375948775,80 Country Manor Ln,Apt L,Centerville,Ohio,45458,1
+Grant,Taylor,grant.taylor@nielsen.com,8133911101,118 Mackinac Dr,,Mooresville,NC,28117,1
+ellie,dibert,elliedibert@gmail.com,804-629-2184,11317 abbots cross ln,,Glen Allen,Virginia,23059,0
+Miranda,Vila,mirandav.613@gmail.com,7863843477,915 sw 94th ave,,Miami,Fl,33174,0
+Sarah,Brobst,sarah.cates@nielsen.com,941-234-6638,1973 Forked Creek Drive,,Englewood,FL,34223,1
+Mariela,Ubilla,mariela.ubilla@nielsen.com,2817289888,4200 Scotland St,327,Houston,TX,77007,1
+Sarah,Pearson,sarah.pearson@nielsen.com,504-874-7091,3652 Bauvais St Unit C,,Metairie,LA,70001,1
+maria,spano,mariaspano293@gmail.com,7276579412,428 Ederington Dr,,brooksville,FL,34601,0
+Jamiee,Foster,jamieefoster27@gmail.com,4438349091,2000 S Eads St,Apt 115,Arlington,VA,22202,0
+Marissa,Mckinley,Marissa.mckinley@nielsen.com,4094547701,2099 dowlen rd apt 9,,Beaumont,TX,77706,1
+Norb,Weitendorf,norbert.weitendorf@nielsen.com,630-749-8110,740 Dalton Lane,,Bolingbrook,Il,60490,1
+Denise,Zavala Calderon,denise.zavalacalderon@nielsen.com,9162089710,1322 Narrows St,,Bakersfield,CA,93307,1
+Dalys,Martinez,dalys.martinezpinto@nielsen.com,7873933474,1808 Western Center Blvd.,Apt.123,Fort Worth,TX,76131,1
+Amy,Jones,amy.jones@nielsen.com,817-615-0025,716 Grove St,,Graham,TX,76450,1
+Krystal,Yandle,Kyandle80@gmail.com,5802204493,1401 chambers st,,Norman,Ok,73071,0
+Gary,Morse,gary.morse@nielsen.com,2142138112,7200 N Stemmons Fwy,1505,Dallas,TX,75247,1
+JULIANNA,MARQUEZ,JULIANNA.MARQUEZ@NIELSEN.COM,8134994574,11007 ASHBOURNE CIR,,TAMPA,FL,33624,0
+Carolyn,Hamilton,cfhamiltontx@gmail.com,817-988-5070,2505 Corkwood Trail,,Arlington,Texas,76001,0
+Salma,Rubio,sam34702@gmail.com,9364999080,5603 Hickory Village Dr.,,Kingwood,TX,77345,0
+Lynn,Meyer,lynnomeyer53@gmail.com,4043107695,8330 Tartan Fields Circle,,Lakewood Ranch,FL,34202,0
+Joey,Huber,joey.huber@nielsen.com,9376381925,207 Mandarin Ct,,Shepherdsville,KY,40165,1
+Michael,Armas,michael.armas@nielsen.com,239.357.0089,3355 Forton Drive,,Orlando,FL,32824,1
+Brianna,Baldwin,baldwin96@comcast.net,860-404-0637,842 Bethlehem Pike,Unit A,Colmar,PA,18915,0
+Valerie,Hoxley,valerie.hoxley@nielsen.com,,9 Barrow St,,Milford,Connecticut,6460,1
+Ryan,Antoniuc,ryan.antoniuc@nielsen.com,732-213-1220,331 Emberly Road,,Brick,NJ,8723,1
+Joshua,Nation,joshua.nation@nielsen.com,3142967855,832 Briarwood Dr,,Bethalto,IL,62010,1
+Heri,Muniz,heri.muniz@nielsen.com,7185939261,158-37 75th Rd,,Fresh Meadows,NY,11366,1
+Harvey,Smith,Harvey.Smith@gmail.com,931-709-3928,1142,Williamson County Line Rd,Fairview,TN,37062,0
+Jesus,Maciado,jesus.maciado@nielsen.com,2017447985,779 11th Ave,Apt 4G,Paterson,NJ,7514,1
+Jose Manuel,Diaz,jose.m.diaz@nielsen.com,2102402003,18077 Frame Bend,,Land O Lakes,Florida,34638,1
+David,Gold,David.gold@nielsen.com,9374778624,4981 Kingsgate Ct,,Beavercreek,Oh,45431,1
+Mark,Nicholson,msn222@comcast.net,8656969917,9912 Coral Springs Lane,,Knoxville,Tennessee,37922,0
+Mario,Contreras,Mario.x.contreras@nielsen.com,7143062344,2014 109th st s,,tacoma,WA,98444,1
+Maureen,Mueller,Maureen.mueller@nielsen.com,4078196556,4805 Davisson ave,,Orlando,FL,32804,1
+Mark,Smylie,Mark.Smylie@Nielsen.Com,3124859596,626 Alston Drive,,Chattanooga,Tennessee,37419,0
+Calvin,Moy,Calvin.moy@nielsen.com,7735978854,2255w Coulter,Unit 4,Chicago,IL,60608,1
+karen,williams,karen.williams@nielsen.com,412-721-2333,4011 chippewa ct,,st cloud,fl,34772,1
+Steven,Danilewicz,andy.danilewicz@icloud.com,805-980-8753,40519 goldeneye pl,,Magnolia,TX,77354,0
+Scott,Crawford,scott.crawford@nielsen.com,412-498-1291,208 Elkmont Dr.,,Berea,KY,40403,1
+Claudia,Madrid,claudia.madrid@nielsen.com,9165809428,1401 Whitehall Ln,,Holiday,FL,34691,1
+JACIEL,MULET,Jaciel.Mulet@nielsen.com,3057255464,5325 SW 133rd Ave,,MIRAMAR,FL,33027,1
+Christina,Hosty,christina.hosty@nielsen.com,8456633402,101 W Jefferson Ave,,PEARL RIVER,NY,10965,1
+Wayne,McClure,wayne.mcclure@nielsen.com,8133579160,16308 Muirfield Dr,,Odessa,FL,33556,1
+Misty,O'Brien,raina7733@yahoo.com,7276372270,114 Quarry Ridge Rd.,,Clarksville,TN,37043,0
+PRINCESS,TALL,princess.tall@nielsen.com,4692642057,6217 Alta Oaks Dr,,Garland,TX,75043,1
+Angela,Servos,servosfamily@yahoo.com,9134856921,33284 w 87th cir,,De Soto,KS,66018,0
+Michele,Lewis,Michele.lewis@nielsen.com,3307603774,324 Keith Ave,,Akron,Ohio,44313,1
+Brice,Scott,brice.rolan.scott@gmail.com,9406131427,3700 Clendenin Ct,,Austin,TX,78732,0
+Migdalia,Fernandez,mig.fernandez@nielsen.com,4132105017,7986 Griswold loop,,New Port Richey,FL,34655,1
+Kofi,Ofori,Koseiofori@gmail.com,2404781920,306 E Wainscot Drive,,New Market,MD,21774,0
+Benjamin,Colegrove,benjamin.colegrove@nielsen.com,4847696089,35 Wynnewood Ave,,Sinking Spg,Pennsylvania,19608,1
+Shanell,Fountain,shanellfountain@gmail.com,7277931616,5148 Kirkwood Avenue,,Spring Hill,Florida,34608,0
+Frank,Orifici,frank.orifici@nielsen.com,,1122 Hornell Dr.,,Silver Spring,MD,20905,1
+Paula,Skaprua,paula.skapura@nielsen.com,4432262804,13491 Brighton Dam Rd,,Clarksville,MD,21029,1
+Troy,Warner,Troy.warner@nielsen.com,8642001082,108 Park Ave,,Honea Path,SC,29655,1
+Stephen,Chopyak,stephen.chopyak@nielsen.com,7047872904,142 E Edgewood Dr.,,McMurray,PA,15317,1
+Juan,Santaigo,Juan.santiago@nielsen.com,6103499595,1909 E Jonathan St,,Allentown,PA,18109,1
+Cody,Rawls,Cody.rawls@nielsen.com,8134504206,4727 95th terrace e,,Parrish,Fl,34219,1
+brett,barber,brett.barber@nielsen.com,231-590-6299,4365 Maplewood Ln.,,Traverse City,Michigan,49686,1
+Nate,Nunnelly,nathanial.nunnelly@nielsen.com,2192469296,201 Erie St,,Valparaiso,IN,46383,1
+Allyson,Dawson,allyson.dawson@nielsen.com,3017066131,7116 Brandywine Way,,Columbia,Maryland,21046,1
+Beatriz,Herrera,beatriz.herrera@nielsen.com,3059060251,26081 SW 135TH CT,,Homestead,FL,33032,1
+Erinn,McKee,erinn.mckee@nielsen.com,3122379745,241 South Main Street,203,Bartlett,IL,60103,1
+John,Estermyer,John.Estermyer@nielsen.com,972-955-5365,5128 Oceana Dr,,Frisco,TX,75036,1
+Travis,Twigg,travis.twigg@nielsen.com,2404052007,316 W 28th St,,Baltimore,MD,21211,1
+Matt,Conrardy,matthew.conrardy@nielsen.com,616-204-5390,542 Begole St sw,,Grabd Rapids,Mi,49534,1
+Thomas,Trenz,Thomas.Trenz@nielsen.com,9106129363,1505 cadfel ct,208,Wilmington,NC,28412,1
+Doug,Thomas,Douglas.thomas@nielsen.com,703-650-7918,1016 Canopy Dr,,Indian Trail,NC,28079,1
+Troy,Smith,Troy.smith@nielsen.com,2164026154,140 Columbia Avenue,,Elyria,Oh,44035,1
+Robert,Costello,bikorules22@yahoo.com,5042320868,1009 Cypress Crossing Dr.,,Madisonville,Louisiana,70447,0
+Richard,Gonzales,Richard.gonzales@nielsen.com,6192269735,707 Marbella Circle,,Chula Vista,CA,91910,1
+Ken,Tomozawa,ken.tomozawa@nielsen.com,3174328634,3711 Brunswick Drive,,Carmel,IN,46033,1
+Alexandra,Messina,alexandra.oconnor@nielsen.com,3233096736,106 Fairchild Downs Place,,Cary,NC,27518,1
+Debbie,Bookless,Debbie.bookless@nielsen.com,2319440255,6575 Twin Lake Road NE,,Mancelona,Mi,49659,1
+Thomas,Greenly,Thomas.greenly@nielsen.com,6517756807,721 Broadway Ave S,,Sauk Rapids,Mn,56379,1
+Ann,Sreckov,ann.sreckov@nielsen.com,8472177291,3640 Waterscape Ter,,Elgin,IL,60124,1
+Matthew,Reilly,matthew.reilly@nielsen.com,7574704079,4616 Noland Boulevard,,Williamsburg,VA,23188,1
+Mike,Gibisser,michael.gibisser@nielsen.com,6105879966,1652 Cardinal Dr,,Bethlehem,PA,18015,1
+Mariyah,Watson,Mariyah.watson@gmail.com,2404253042,1913 Cedric Rd,,Baltimore,MD,21216,0
+Martin,Reyna,martin.reyna@nielsen.com,702-219-2058,321 W Azure Ave,,North Las Vegas,Nevada,89031,1
+Raul,Mata,raul.mata@nielsen.com,248-302-1867,4414 Edmund St,,Wayne,MI,48184,1
+Marvin,Angulo,marvin.angulo@nielsen.com,210-608-5298,4209 Bent Wood Ct,,Round Rock,TX,78665,1
+Molly,Velez,martha.velez@nielsen.com,4196032949,2266 Birchard Ave,,Fremont,OH,43420,1
+kevin,youngblood,kevin.youngblood@nielsen.com,9376579264,5775 pondview dr.,,Kettering,OH,45440,1
+Joseph,Prete,joseph.prete@nielsen.com,7084460525,501 40th Ave N,,St. Petersburg,FL,33703,1
+Rick,Flynn,Mavrik39@gmail.com,7272159634,1800 Briland St,,Tarpon Springs,Florida,34689,0
+Jeremy,Martin,Jmartssj4@aol.com,5027772726,4909 Andalusia Lane,,LOUISVILLE,KY,40272,0
+Rietchie,Dean,Rietchie.dean@nielsen.com,2023096249,1349 Newton st NE,,Washington,DC,20017,1
+Karen,Franco,karen.myers@nielsen.com,2628947169,10416 Sheffield Rd,,Spring Hill,FL,34608,1
+Caprice,Schulte,Caprice.schulte@nielsen.com,8013000877,1010 Windsor street,apt. A,Salt Lake City,UT,84105,1
+Chris,Heider,chris.heider@nielsen.com,4109796609,625 Woodbine Ave,,Towson,MD,21204,1
+Zach,Lieber,zach.lieber@nielsen.com,8166814227,3927 NW 82nd St.,,Kansas City,MO,64151,1
+Jorgelina,Changeur,jorgelina.changeur@nielsen.com,925-407-6016,25527 Rua Michelle,,Escondido,CA,,1
+Rick,Cook,rick.cook@nielsen.com,8127058605,565 Flatwood NW,,New Salisbury,Indiana,47161,1
+Nathaniel,Blankenship,nate.blankenship@nielsen.com,4232061269,1609 Seaver Rd,,Kingsport,TN,37660,1
+Dora,Garcia Karp,dora.garciakarp@nielsen.com,2393222837,2813 SE 20th AVE,,Cape Coral,FL,33904,1
+Sebastian,Preciado,sebastianpreciado@ymail.com,2142800034,1359 County Road 2178,,Greenville,Texas,75402,0
+Kristin,Metcalfe,kristin.metcalfe@nielsen.com,7143052522,15 Seacountry Ln,,Rancho Santa Margarita,CA,92688,1
+Heather,Wolka,mrswolka@gmail.com,480-647-2604,801 S Walnut St,,Seymour,IN,47274,0
+Tamika,Glover,tamikaglover19@yahoo.com,469-835-0037,1819 Apollo Lance,,Lancaster,TX,75134,0
+Jonathan,Boykin,clemsonboykin@gmail.com,8645469355,18 Sunbeam Court,,St. Peters,MO,63376,0
+Nicole,Cetta,nicole.cetta@nielsen.com,9545596331,304 Boulder Dr,,Elizabethtown,KY,42701,1
+Jacinto,Gibbs,Jacinto.gibbs@nielsen.com,9013783540,8722 Forest Breeze Dr,,Cordova,TN,38018,1
+Ana Elizabeth,Almodovar,ana.almodovar@nielsen.com,8137241197,16537 Enclave Village Dr,Building 8 Apt 302,Tampa,FL,33647,1
+Elaine,CRAFTON,elaine.crafton@yahoo.com,7274856251,1339 Weston Oaks Dr,Apt 4210,Holiday,FL,34691,0
+Scott,Castle,scott.castle@nielsen.com,4137275291,72 Burt rd,,Springfield,MA,1118,1
+Adrienne,Young,adrienne.young@nielsen.com,5862559414,7575 Powers ct,,shelby twp,mi,48317,1
+Susan,Sloan,susan.sloan@nielsen.com,916-956-2268,9038 Custom Ct.,,Sacramento,CA,95826,1
+anas,adoyi,anas.adoyi711@gmail.com,5024943001,505 main st,,jeffersonville,in,47130,0
+Elmy,Perez,elmy.perez@nielsen.com,9842495632,58 Mockingbird Way,,Clayton,NC,27527,1
+Jessica,Narvaez,jemay04@gmail.com,7276784884,5199 lake valencia blvd e,,palm harbor,fl,34684,0
+Rosalinda,Sorola,linda.sorola@nielsen.com,2105279592,13700 Judson Rd Lot 191,,San Antonio,TX,78233,1
+Edwin,Mendez,edwin.mendez@nielsen.com,3129721339,3218 N Laramie,,Chicago,IL,60641,1
+Gus,Gray,Gustavus.Gray@nielsen.com,7274921275,3625 Heron Island Dr,,New Port Richey,Fl,34655,1
+Randy,Brooks,randybrooks41@gmail.com,301-980-4655,14508 Pebblestone Dri,,Silver Spring,MD,20905,0
+Robin,Gentry,robin.gentry@nielsen.com,301-725-8817,8337 Montgomery Run Rd.,Apt. E,Ellicott City,MD,21043,1
+Brianna,Kouder Perez,briannakouder@gmail.com,9195599034,58 Mockingbird Way,,Clayton,NC,27527,0
+Hamzah,Bennett,hamzahbennett18@gmail.com,6304538411,30 Belmont Drive,,Romeoville,IL,60446,0
+Erika,Paez,Erikahlo.paez@Nielsen.com,832-471-7093,1803 Lamar dr,,Richmond,Tx,77469,0
+Corey,Gardner,corey.gardner@nielsen.com,7276440555,2690 Coral Landings Blvd,Apt 623,Palm Harbor,FL,34684,1
+Desiree,Armstrong,Desiree.armstrong@nielsen.com,4806043491,1318 E Clearwater Lane,,Gilbert,AZ,85234,1
+Tracey,Jones,Tracey.connorjones@nielsen.com,6304538590,1449 Root Street,,Crest Hill,Il,60403,1
+Bonnie,Coast,Bonnie.coast@nielsen.com,4807871852,2334 Citrus Hill Road,,Palm Harbor,FL,34683,1
+Evelynn,Bouyelas,evelynn.bouyelas@nielsen.com,5046697279,136 Fay Way,,Slidell,LA,70460,1
+Jason,Bailey,jason.bailey@nielsen.com,4074574208,799 Wildbriar Rd NE,Apt 206,Palm Bay,FL,32905,1
+Nicole,Gonzales,nicolehope82@gmail.com,7264379535,,,San Antonio,Tx,78245,0
+Jesse,Vance,jesse.vance@nielsen.com,5743100860,732 10th Place,,Mishawaka,IN,46544,1
+Anneliese,Taylor,amonje29@gmail.com,9045992258,45 Solana Rd,,Ponte vedra beach,FL,32082,0
+Kevin,Cadien,kevin.cadien@nielsen.com,727-403-1327,5565 Harborside Drive,,Tampa,FL,33615,1
+Donna,DeMoss,donna.demoss@nielsen.com,972-837-3610,1809 Copper Mountain Dr,,Justin,TX,76247,1
+Elizabeth,Vance-Miller,elizabeth.vancemiller@nielsen.com,2392848973,1019 SE 26th St,,Cape Coral,FL,,1
+Catherine,Adler,adlercatherine@hotmail.com,7272760444,8133 Rothbury Hills Place,,Gibsonton,fl,33534,0
+Vanessa,Lindimore,Vlindimore@gmail.com,401-365-3940,13 Vermont St,2,Johnston,RI,2919,0
+John,Ballman,john.ballman@nielsen.com,7142251447,9210 Victoria Dr,,Ellicott City,MD,21042,1
+Stephanie,Taylor,stephanie.taylor@nielsen.com,2519797078,22475 Respite Ln,,Foley,AL,36535,1
+Katherine,Mintz,katpaikh@gmail.com,9095767388,9608 NW 7th Circle,Apt 1321,PLANTATION,Florida,33324,0
+Theresa,Gunderman,Theresa.gunderman@nielsen.com,5188817183,1 Chapel Woods,,Ballston Lake,NY,12019,1
+Jovan,Hernandez,Jovan.hernandez@nielsen.com,786-918-5542,17945 SW 97th Ave,Apt 211,Palmetto Bay,FL,33157,1
+Whitney,Blattel,whitney.blattel@nielsen.com,3145919043,219 Birmingham Dr,,O'Fallon,MO,63366,1
+Cristiano,Bandeira de Oliveira Velloso,Cristiano.Velloso@nielsen.com,6896883509,851 Eagle Pointe South,,Kissimmee,Florida,34746,1
+Shane,Fernandez,shane.fernandezjr@nielsen.com,808-285-4788,91-1451 Keahumoa Pkwy,Apt 1001,Ewa Beach,HI,96706,1
+Laura,Jacoby,lauramjacoby@gmail.com,8185213524,5301 Renton Ave S,,Seattle,WA,98118,0
+Christopher,Gomez,christopher.gomez@nielsen.com,7138297495,9162 Wilcrest Dr,,Houston,Texas,77099,1
+Nydia,Dorthalina,nydia.dorthalina@nielsen.com,8134730716,318 cascade bend dr,,ruskin,fl,33570,1
+Ellen,Rey,ellen.rey@nielsen.com,8168946351,2525 Van Brunt Boulevard,,KCMO,MO,64127,1
+June,Scott,june.scott@nielsen.com,5202379625,41834 W Mano Pl,,Maricopa,Az,85138,1
+Cherie,Bonilla,bigfambam8@gmail.com,8308656306,700 Monarch Dr,,Seguin,TX,78155,0
+Aydin,Toksavul,Aydin.toksavul@nielsen.com,4104433615,1314 Lewis Ln,,Havre de Grace,MD,21078,1
+Zachary,Krech,Zac.krech@nielsen.com,2707094864,701 Wheeler Ave,,Paducah,Ky,42003,1
+Nanette,Cobb,nanette.cobb@nielsen.com,3058339677,11730 SW 151 AVE,,Miami,FL,33196,1
+Pam,Boudreaux,pam.boudreaux@nielsen.com,6083228473,1515 white ave,,Beloit,WI,53511,1
+Debbie,Martinez tena,Debbie.tena09061992@gmail.com,9199433182,808 spinner rd,,desoto,Texas,75115,0
+Dorothy,Grant,Dotti.Grant@Nielsen.com,2392764326,985 Charlemagne Blvd,,Naples,FL,34112,0
+Jocelyn,Roman,jr3380@gmail.com,9179293134,79-39 262nd Street,,Glen Oaks,NY,11004,0
+elizabeth,thompson,elizabethmh311@gmail.com,4437641341,6376 Smithy Square Apt C,,Glen Burnie,md,21061,0
+Meryenn,Sanchez,Meryenn.garciasanchez@nielsen.com,2144423344,3801 La Prada Dr.,,Mesquite,Texas,75150,1
+Terry,Kessler,t_kessler@oh.rr.com,2164026809,221 Burton Street,,Fairport Harbor,Ohio,44077,0
+Suzie,Hill,Susan.hill@nielsen.com,4074882207,7212 Kensington High Blvd,,Orlando,Fl,32818,1
+Mark,Thiele,mark.thiele@nielsen.com,304-966-0403,759 Cassville Mt Morris Rd,,Morgantown,WV,26501,1
+ANAHI,GARCIA- TELLEZ,a.garcia0464@gmail.com,2142545322,2742 Modree Ave,,Dallas,TX,75216,0
+Nikki,Speciale,nikkispeciale@gmail.com,401-269-1151,2980 Post Road,Unit 2,Warwick,RI,2886,0
+GABRIEL,MORGAN,GABRIELLMORGAN@YAHOO.COM,2148615880,12828 HILLTOP DR,,BALCH SPRINGS,TX,75180,0
+Bill,Field,william.field@nielsen.com,7348274386,4371 Old Mill Rd,,Pinckney,MI,48169,1
+Brent,Cowan,brent.cowan@nielsen.com,801-589-9738,3720 S. 3235 W.,,West Haven,UT,84401,1
+Diane,Welch,diane.welch@nielsen.com,6192141321,4524 morro bay st,,oceanside,California,92057,1
+LaRide,Conerly,larideeconerly@gmail.com,469-703-1803,3117 Teasdale CT,,Seagoville,TX,75159,0
+Teresa,Goode,teresa.goode@nielsen.com,6824655194,2101 Rainbow Drive #4321,,Arlington,TX,76011,1
+DAVID,MONZON,DMONZ1517@GMAIL.COM,7274250859,7105 WESTCOTT DR,,PORT RICHEY,Florida,34668,0
+Wilson,Adames,wilson.adames@nielsen.com,704-318-6232,3965 Potts Grove Pl,,Concord,NC,28025,1
+Ben,Eoff,Eoff2016@gmail.com,4794355004,2625,Hickeytown Rd,London,AR,72847,0
+Chris,Unrein,christopher.unrein@nielsen.com,405-406-4856,920 Tarry Town Dr,,Chickasha,OK,73018,1
+Melvin,Aguilar,Melvin.aguilar@nielsen.com,813-270-6466,9144 Headwaters Ave,Unit 202,Riverview,FL,33578,1
+Travis,Bush,travis.bush13@gmail.com,2055638939,6968 sea harbor dr,,Grand Prairie,tx,75054,0
+Elizabeth,Albee,,4143318344,3821 S 83rd St,,milwaukee,wi,53220,
+Kennedy,Bright,kennedy.bright@nielsen.com,4048081440,11908 Stirling Row Lane,,Houston,TX,77082,1
+Francisco,Gonzalez,ivoera62@gmail.com,5125668168,190 Peach Street,,Blanco,TX,78606,0
+Rosa,Way,rosaway680@yahoo.com,2165437229,7815 Canna DR,,Port Richey,Fl,34668,0
+Itzel,Pile,Itzel.pile@nielsen.com,470-728-2327,6530 Marsham Dr,,Atlanta,GA,30349,1
+ASHLEY,WRIGHT,ASHLEY.HAGER@NIELSEN.COM,9419613037,6083 MAYBERRY AVE,,NORTH PORT,FL,34287,0
+Dan,Carrasco,danover_tejas@yahoo.com,2566489491,12833 Palapa Loop,,Spring Hill,FL,34610,0
+Dawn,McClung-Marchetti,wamcc2017@gmail.com,251.242.8254,1529 Columbia Park Trail,Apt E337,Richland,WA,99352,0
+Troy,Maynard,troy.maynard@nielsen.com,603-858-4754,7112 Holly Hill Dr Apt. 303,Lyric Apartments,Dallas,TX,75231,1
+Asael,Nava,asael.nava@nielsen.com,214-437-2566,220 Geronimo St,,Ferris,TX,75125,1
+Jason,Copersito,Jason.Copersito@Nielsen.com,7275428820,4963 RIDGEMOOR CIR,,Palm Harbor,FL,34685,0
+James,Herrick,james.herrick@nielsen.com,813-326-4538,121 Trenton Dr,,Youngsville,LA,70592,1
+maria,spano,mariaspano293@gmail.com,7276579412,428 ederington dr,,brooksville,fl,34601,0
+April,Gregory,april.gregory@nielsen.com,2103746334,11530 Vance Jackson Rd apt 307,,San Antonio,TEXAS,78230,1
+Veronica,Pinedo,Veronica.pinedo@nielsen.com,602-469-9777,5961 W Venus Way,,Chandler,Az,85226,1
+Amy,Permann,amypermann@gmail.com,210-544-2171,3403 Quakertown Dr,,San Antonio,TX,78230,0
+Danny,Wolff,Danny.Wolff@Nielsen.com,339-927-2731,12 Pickering Street,,Danvers,MA,1923,0
+Jane,Shapiro,jane.shapiro@nielsen.com,443-355-7194,10101 Governor Warfield Pkwy,Unit 361,Columbia,MD,21044,1
+Amanda,Hall,Amanda.hall@nielsen.com,314-518-3440,120 Floral Pkwy,,Floral Park,New York,11001,1
+Ean,Waetjen,ean.waetjen@nielsen.com,9143560776,106 woodlyn ave,apt 2,Glenside,PA,19038,1
+PATTY,JOHNSON,patty.johnson@nielsen.com,972-619-2353,5955 ALPHA RD.,#329,DALLAS,TX,75240,1
+Laura,Cantu Carroll,laura.cantucarroll@nielsen.com,210-202-7145,1910 Kyle Way,,New Braunfels,Tx,78130,1
+Misty,Simpson,misty.simpson@nielsen.com,310-343-8675,504 Rialto Ave,,Venice,CA,90291,1
+Nancy,Skaar,nancy.skaar@nielsen.com,6512123256,5419 Malachi Circle,,Knoxville,TN,37918,1
+WANDA,LAWRENCE,TWIN819.WL@GMAIL.COM,8135679126,10315 FROG POND DR,,RIVERVIEW,FLORIDA,33569,0
+Virginia,Walls,Vrwalls@yahoo.com,614-531-1535,3428 Roswell Dr,,Columbus,Oh,43227,0
+Rick,Borkowski,richard.borkowski@nielsen.com,9136345102,14605 W 90th Street,,Lenexa,KS,66215,1
+John,Barker,john.barker@me.com,7274308180,8015 29th Ave N,,Saint Petersburg,FL,33710-2813,0
+Patricia,Elizondo,patricgoldi@gmail.com,210-935-2965,14200 Vance Jackson Rd,Apt 21108,San Antonio,Texas,78249,0
+Albert,Nelson,albert.nelson@nielsen.com,7602200675,2538 C St # 7,,San Diego,CA,92102,1
+Bonnie,Griffiths,blewis11.bl@gmail.com,469-490-7209,1120 Augusta Ave,,Tyler,Tx,75701,0
+Colin,King,colin.king@nielsen.com,5052387150,12500 CORONADO AVE NE,,ALBUQUERQUE,NM,87122,1
+Cheniel,Correa,,7573547549,719 20th Street,Apt. 2,Virginia Beach,Virginia,23452,
+Rita,Herricks,rita.herricks@nielsen.com,469-781-2785,107 Maple St,,Glenn Heights,TX,75154,1
+CHARLOTE,ROBINSON,charlotte.robinson@nielsen.com,2146643502,1823 E GRAUWYLER RD AT 200,200,IRVING,Texas,75061,1
+Denise,Schenkel,Denise.Schenkel@nielsen.com,727-710-2719,5429 Golden Nugget Dr,,Holiday,FL,34690,1
+Butch,Bryant,butch.bryant@nielsen.com,9196101140,7014-A Longstreet Dr,,Raleigh,NC,27615,1
+Eugene,Sansone,eugene.sansone@nielsen.com,(860) 471-2399,5 Fairway Drive,,Brooklyn,CT,6234,1
+Chloe,Gahagan,chloe.queen@nielsen.com,3305196785,1328 Amber Glades Lane,,Knoxville,TN,37922,1
+BOB,FREIDINGER,BOB.FREIDINGER@MAC.COM,6302028276,517 SKYVIEW AVE,,CLEARWATER,FLORIDA,33756,0
+ERIC,STRAITER,STRAITERERICS@GMAIL.COM,4846295915,1517 YOUNG AVE,,CLEARWATER,FL,33756,0
+Gavin,Moore,gavin.moore@nielsen.com,9376026755,4096 margate dr,,Beavercreek,Oh,45430,1
+Sandra,Miller,Sandi.greer@att.net,817-565-4869,2100 Wanda Way,,Arlington,Texas,76001,0
+JOHN,WRIGHT,john.wright@nielsen.com,8137536900,17023 ONGAR CT,,LAND O LAKES,Florida,34638,1
+Aries,Perez,ARIES.PEREZ@NIELSEN.COM,2147230969,622 STEVENS VILLAGE DR APT 146,,DALLAS,Texas,75208,0
+Beatriz,Santana,btsantana@icloud.com,5623320986,12750 Centralia Street 154,,Lakewood,CA,90715,0
+Asael,Nava,asael.nava@nielsen.com,214-437-2566,220 Geronimo St,,Ferris,TX,75125,1
+Arely,Damian,arely.damian@nielsen.com,9099368942,1537 W Fern Ave,,Redlands,CA,92373,1
+Lee,Ocean,Lee.Ocean@nielsen.com,6144398837,7708 Ridgehurst Pl,,LOUISVILLE,KY,40299,1
+ADAM,GLUCK,adam.gluck@nielsen.com,4437450441,2994 Rexwood Drive,,Glen Rock,PA,17327,1
+Samantha,BuchananMatthews,sdmatt312@gmail.com,8178460124,8155 Marydean Ave,,Fort Worth,TX,76116,0
+Robert,Brinkley,Robert.Brinkley@nielsen.com,503-969-4768,19858 S Harper Rd,,Colton,OR,97017,1
+Catherine,Herkovic,catherine.herkovic@nielsen.com,6312618946,155 BAYVIEW AVENUE,,NORTHPORT,New York,11768,1
+Jennifer,Rudolph,jenny88188@icloud.com,6824041846,10216 Salem Way,,Waco,TX,76708,0
+Veronica,Pinedo,Veronica.pinedo@nielsen.com,602-469-9777,5961 W Venus Way,,Chandler,AZ,85226,1
+Yves,Malamba,yves.malamba@nielsen.com,2062471999,325 Belfair St SW,,Orting,WA,98360,1
+Ryan,Stern,ryanstern08@gmail.com,813-321-9817,501 E Antietam Ct,,Purcellville,VA,20132,0
+Justin,Greenwood,justin.greenwood@nielsen.com,410-808-4786,3955 Windermere Way,,Mount Airy,MD,21771,1
+Kelli,McGowan,Kelli.McGowan@Nielsen.com,7276238298,11586 Mallory Square Drive,Apt 303,Tampa,FLORIDA,33635,0
+Juan,Mollinedo,Juan.Mollinedo@gmail.com,9548048381,337 Plott Hound Lane,,Wake Forest,NC,27587,0
+Mike,Gazecki,mikegazecki@gmail.com,8434426898,267 Beech Hill Lane,,Mount Pleasant,SC,29464,0
+Danny,Wolff,Danny.Wolff@Nielsen.com,781-389-7697,12 Pickering street #2,,Danvers,Ma,1923,0
+Peter,Munguia,Petermungia@yahoo.com,9562441224,1122 citrus terrace dr,,Harlingen,Tx,78550,0
+Elizabeth,Vance-Miller,elizabeth.vancemiller@nielsen.com,2392848973,1019 SE 26th St,,Cape Coral,Fl,33904,1
+Beth,Eisenberg,beth.eisenberg@nielsen.com,240-604-7224,6723 Chokeberry Rd,,Baltimore,MD,21209,1
+Kipp,Perdue,kipp.perdue@nielsen.com,(517) 410-0711,1700 Tartan Trl,Unit D,Alma,MI,48801,1
+Andrea,Davison,akdavison18@gmail.com,7277432373,2042 Sheffield Ct,,Oldsmar,FL,34677,0
+Daleisha,Santiago,Daleishasantiago@icloud.com,8637848676,210 Fred Conner St,,Avon Park,FL,33825,0
+Danny,Hernandez,dhernandez525@gmail.com,440-732-1330,1355 Park Row,Suite 1,Lakewood,Ohio,44107,0
+Crystal,Hutson,crystal.hutson@nielsen.com,7034027578,575 12th Rd S #420,,Arlington,VA,22202,1
+Shannon,Lindmeyer,Shannon.lindmeyer@nielsen.com,651-335-3667,9817 Kirkwood lane n,,Maple grove,Mn,55369,1
+Brandi,Brunsman,b.brunsman@aol.com,5133106694,7230 MacArthur Ct,,Harrison,oh,45030,0
+Joseph,Elgin,joseph.elgin@nielsen.com,2487639610,213 Brandywine RD,,Collegeville,PA,19426,1
+Cristina,Abreu,Cristina.Abreu@nielsen.com,813-334-4363,6109 42nd St Cir E,,Bradenton,FL,34203,1
+Mariela,Ubilla,mariela.ubilla@nielsen.com,2817289888,4200 Scotland St,#327,Houston,TX,77007,1
+David,Yuen,david.yuen@nielsen.com,4153103601,846 29th Ave,,San Francisco,CA,94121,1
+Samantha,Cantrell,Samanthacantrell75@gmail.com,7042133834,1528 Morning Dove Way,,Clover,Sc,29710,0
+Jennifer,Brown,jnnybrown@yahoo.com,5038050891,8936 SW Zander Ct,,Portland,OR,97223,0
+Yadira,Gutierrez,yadirachicago@gmail.com,3129191380,2338 W 18th PL,APT 2,Chicago,IL,60608,0
+Elisabeth,Warren,Elisabeth.warren@nielsen.com,4752546989,74 Olivia st,Unit 219,Derby,Ct,6418,1
+Elizabeth,Arvizu,elizabeth.arvizu@nielsen.com,520-237-3391,6652 E. Via Boca Grande,,Tucson,AZ,85756,1
+Robert,Kirchner,Robert.Kirchner@Nielsen.com,3022999318,2396 S Whittmore St,,Furlong,Pa,18925,0
+Felix,Rodriguez,felix.rodriguez@nielsen.com,8139657372,3540 hartland dr,,New Port Richey,FL,34655,1
+Paul,Cox,paul@agynt.com,630-415-9239,2000 Jasmine Way,,North Port,FL,34287,0
+Rodimiro,Garcia,rodimiro.garcia@nielsen.com,281-772-2430,14814 Cedar Isle Dr,,Houston,TX,77084,1
+KHALIDA,RAZIUDDIN,KHALIDA.RAZIUDDIN@NIELSEN.COM,8133527868,16301 NEWBURY PALMS CT,,TAMPA,FL,33647,0
+Brenda,Ovaris,bzcshafer@gmail.com,2014507501,8541 W. Gulf Blvd,8,Treasure Island,Florida,33706,0
+Michelle,Corrales,michelle.corrales@nielsen.com,8135064564,207 Sandy Ave,,Tampa,Florida,33615,1
+Juliet,Lopez Garcia,juliet.lopezgarcia@nielsen.com,6825219767,6705 Pony Express Trail,,Arlington,TX,76002,1
+Ralph,Cruz,ralph.cruz@nielsen.com,914-281-0607,126 Alton St,,Elizabeth,NJ,7202,1
+jessica,hornedo,Jhornedo30@gmail.com,860-574-6691,8355 sandstone lake dr. unit,202,tampa,fl,33615,0
+Kristin,Sutton,kasutton05@gmail.com,5042697270,2649 Verbena St,,New Orleans,LA,70122,0
+Diana,Dominguez,dianabelendesign@gmail.com,,1313 Lakeshore Dr,,irving,tx,75060,0
+John,Meagher,john.meagher@nielsen.com,3132362246,1607 Lofty Maple Trail,,KINGWOOD,TX,77345,1
+Christine,Moore,Christine.M.Moore@nielsen.com,8285513913,1804 Russell St,,Nashville,TN,37206,1
+Sean,Calvert,sean.calvert@nielsen.com,8139667545,11827 Sweetpea Ct,,Tampa,Fl,33635,1
+Davin,Kelley,Davin.kelley@nielsen.com,8013880010,79 w 1425 n,,Sunset,Utah,84015,1
+Antoinette,Zinsmeyer,topaz61@yahoo.com,2103861511,15355 Rosa Trail,,San Antonio,TX,78253,0
+Erick,Cerda,erick.cerda@nielsen.com,9452308688,3045 Lanoue Dr,,Dallas,TX,75220,1
+MIESHA,SMITH-OWENS,MSAMBITION32@GMAIL.COM,4695449306,3150 CLIFF CREEK CROSSING DR APT 2104,,DALLAS,TX,75237,0
+Imelda,Aguirre,imelda.aguirre@nielsen.com,2149402327,8412 CAMPANELL,,DALLAS,TEXAS,75243,1
+ERICA,MURPHY,ELMURPHY915@GMAIL.COM,5014254476,3030 HEREFORD DRIVE,,FORNEY,TX,75126,0
+Anna,Lopez Romo,anna_lr94@hotmail.com,2105607151,12306 Commander Dr,,San Antonio,TX,78252,0
+David,Williams,dave.williams@nielsen.com,4052060510,10208 Hamilton Dr,,Oklahoma City,OK,73169,1
+Yves,Malamba,yves.malamba@nielsen.com,2062471999,325 BELFAIR ST SW,,ORTING,WASHINGTON,98360,1
+Jon,Beckman,jon.beckman@nielsen.com,502-595-8623,10116 Headley Hill Rd.,,Louisville,KY,40223,1
+Eddie,Ocampo,edward.ocampo@nielsen.com,3059755247,633 WINDWARD LN,,DUNCAN,South Carolina,29334,1
+Luis,Ramirez,sahomefinder@gmail.com,2108672190,17002 Irongate Rail,,San Antonio,TX,78247,0
+Justin,Greenwood,justin.greenwood@nielsen.com,410-808-4786,3955 Windermere Way,,Mount Airy,MD,21771,1
+SCOTT,SHELLABARGER,SHELLNBARS@AOL.COM,8135100951,12764 WESTWOOD LAKES BLVD.,,TAMPA,FL,33626,0
+KEVIN,PLATERO,kevin.platero@nielsen.com,4696180353,4156 CREEKHOLLOW DR,,CARROLLTON,TX,75010,1
+Anacaren,Carr,anacarencarr@gmail.com,2144777116,1200 OAKMONT CT,,MANSFIELD,TX,76063-2648,0
+Laura,Cantu Carroll,Laura.cantucarroll@nielsen.com,2102027145,1910 Kyle Way,,New Braunfels,Tx,78130,1
+Henri,Orantes,henri.orantes@gmail.com,3012675823,16305 Pond Meadow Lane,,Bowie,MD,20716,0
+Jose,Sotomayor,sotomayor.inc@gmail.com,8328157113,10219 BRIAR FOREST DRIVE,,HOUSTON,TX,77042,0
+Jessica,Clark,clarkje562@gmail.com,5627548013,12350 Del Amo Blvd,2415,Lakewood,CA,90715,0
+Miranda ,Nelson,miranda.nelson@nielsen.com,8439901744,1001 E Park St,22A,Carbondale,IL,62901,1
